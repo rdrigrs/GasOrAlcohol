@@ -39,11 +39,11 @@ Este projeto foi construído seguindo a arquitetura **MVVM (Model-View-ViewModel
 
 **Tela Principal:**
 
-`[Insira aqui a imagem da tela principal]`
+![Tela Principal do App](screenshots/tela_principal.png)
 
 **Resultado do Cálculo:**
 
-`[Insira aqui a imagem mostrando o resultado]`
+![Resultado do Cálculo](screenshots/resultado_calculo.png)
 
 ## ⚙️ Como Executar
 
