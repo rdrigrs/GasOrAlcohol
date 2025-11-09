@@ -1,3 +1,47 @@
 <resources>
     <string name="app_name">GasOrAlcohol</string>
+
+    <!-- Main Screen -->
+    <string name="gas_autonomy">Gas autonomy (km/L)</string>
+    <string name="alcohol_autonomy">Alcohol autonomy (km/L)</string>
+    <string name="gas_price">Gas price</string>
+    <string name="alcohol_price">Alcohol price</string>
+    <string name="gas">Gas</string>
+    <string name="alcohol">Alcohol</string>
+    <string name="calculate">Calculate</string>
+    <string name="save_to_list">Save to List</string>
+    <string name="view_gas_stations">View Gas Stations</string>
+    <string name="preview_not_available">Preview not available for this screen</string>
+
+    <!-- Navigation -->
+    <string name="nav_calculator">Calculator</string>
+    <string name="nav_stations">Stations</string>
+
+    <!-- Main ViewModel -->
+    <string name="fill_all_fields">Please, fill all the fields.</string>
+    <string name="gas_is_better">Gas is better</string>
+    <string name="alcohol_is_better">Alcohol is better</string>
+    <string name="both_are_equivalent">Both are equivalent</string>
+
+    <!-- Gas Station List Screen -->
+    <string name="gas_price_label">Gas: R$ %1$.2f</string>
+    <string name="alcohol_price_label">Alcohol: R$ %1$.2f</string>
+    <string name="updated_label">Updated: %1$s</string>
+    <string name="add_gas_station">Add Gas Station</string>
+
+    <!-- Gas Station Edit Screen -->
+    <string name="gas_station_name">Gas station name</string>
+    <string name="address">Address</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+
+    <!-- Better Choice -->
+    <string name="best_choice">Best choice: %1$s</string>
+    <string name="choice_alcohol">Alcohol</string>
+    <string name="choice_gas">Gas</string>
+    <string name="choice_equivalent">Equivalent</string>
+    <string name="choice_unknown">Unknown</string>
+
 </resources>

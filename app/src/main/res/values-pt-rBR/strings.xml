@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">GasOuÁlcool</string>
+
+    <!-- Tela Principal -->
+    <string name="gas_autonomy">Autonomia com gasolina (km/L)</string>
+    <string name="alcohol_autonomy">Autonomia com álcool (km/L)</string>
+    <string name="gas_price">Preço da gasolina</string>
+    <string name="alcohol_price">Preço do álcool</string>
+    <string name="gas">Gasolina</string>
+    <string name="alcohol">Álcool</string>
+    <string name="calculate">Calcular</string>
+    <string name="save_to_list">Salvar na Lista</string>
+    <string name="view_gas_stations">Ver Postos</string>
+    <string name="preview_not_available">Pré-visualização não disponível para esta tela</string>
+
+    <!-- Navegação -->
+    <string name="nav_calculator">Calculadora</string>
+    <string name="nav_stations">Postos</string>
+
+    <!-- Main ViewModel -->
+    <string name="fill_all_fields">Por favor, preencha todos os campos.</string>
+    <string name="gas_is_better">Gasolina é melhor</string>
+    <string name="alcohol_is_better">Álcool é melhor</string>
+    <string name="both_are_equivalent">Ambos são equivalentes</string>
+
+    <!-- Tela de Lista de Postos -->
+    <string name="gas_price_label">Gasolina: R$ %1$.2f</string>
+    <string name="alcohol_price_label">Álcool: R$ %1$.2f</string>
+    <string name="updated_label">Atualizado em: %1$s</string>
+    <string name="add_gas_station">Adicionar Posto</string>
+
+    <!-- Tela de Edição de Posto -->
+    <string name="gas_station_name">Nome do posto</string>
+    <string name="address">Endereço</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="save">Salvar</string>
+    <string name="delete">Excluir</string>
+
+    <!-- Melhor Escolha -->
+    <string name="best_choice">Melhor escolha: %1$s</string>
+    <string name="choice_alcohol">Álcool</string>
+    <string name="choice_gas">Gasolina</string>
+    <string name="choice_equivalent">Equivalentes</string>
+    <string name="choice_unknown">Desconhecido</string>
+
+</resources>
