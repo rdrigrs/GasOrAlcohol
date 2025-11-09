@@ -11,8 +11,8 @@ Calcule qual combustível é mais vantajoso baseado na autonomia do seu veículo
 - Insira os preços atuais
 - Veja instantaneamente qual é melhor
 
-![Tela Principal](screenshots/tela_principal.png)
-![Resultado do Cálculo](screenshots/resultado_calculo.png)
+<img src="screenshots/tela_principal.png" width="300">
+<img src="screenshots/resultado_calculo.png" width="300">
 
 ### 2. Gerenciamento de Postos
 Salve e gerencie informações de postos de gasolina:
@@ -22,9 +22,9 @@ Salve e gerencie informações de postos de gasolina:
 - **Excluir posto**: Remova postos da lista
 - **Cálculo automático**: O app mostra automaticamente qual combustível é melhor em cada posto (baseado na regra dos 70%)
 
-![Lista de Postos](screenshots/lista_postos.png)
-![Adicionar Posto](screenshots/adicionar_posto.png)
-![Editar Posto](screenshots/editar_posto.png)
+<img src="screenshots/lista_postos.png" width="300">
+<img src="screenshots/adicionar_posto.png" width="300">
+<img src="screenshots/editar_posto.png" width="300">
 
 ### 3. Persistência de Dados
 - Dados salvos localmente usando **SharedPreferences**
