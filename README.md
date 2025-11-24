@@ -60,3 +60,9 @@ Salve e gerencie informações de postos de gasolina:
 2. Abra no Android Studio
 3. Sincronize o Gradle
 4. Execute no emulador ou dispositivo físico
+
+## Aplicativo Executando
+
+<video src="screenshots/execucao.webm" width="300" controls="controls">
+Seu navegador não suporta a tag de vídeo.
+</video>
